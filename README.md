@@ -2,8 +2,8 @@
 
 A fine-tuned ResNet18 model that classifies car images into 5 body types: **Convertible, Coupe, Hatchback, SUV, and Sedan**.
 
-🚗 **Live Demo:** [Car Body Type Classifier on Hugging Face Spaces](https://huggingface.co/spaces/YOUR_USERNAME/car-body-type-classifier) ← replace with your actual link
-
+🚗 **Live Demo:** [Car Body Type Classifier on Hugging Face Spaces]
+undermaintainance
 ---
 
 ## Project Overview
