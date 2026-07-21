@@ -9,7 +9,9 @@ A fine-tuned ResNet18 model that classifies car images into 5 body types: **Conv
 
 This project was built as a complete end-to-end deep learning pipeline — from dataset acquisition and preprocessing, through model training and evaluation, to deployment on Hugging Face Spaces. The goal was to classify car images by body type using transfer learning with a pretrained ResNet18 backbone.
 
+Working link: https://pr4yush-car-classifier.hf.space
 ---
+
 
 ## Dataset
 
